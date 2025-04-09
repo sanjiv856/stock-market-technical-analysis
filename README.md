@@ -1,4 +1,4 @@
-# Stock Market Data Analysis - Technical Analysis
+# Stock Market Data Analysis - Technical Analysis - Python
 
 This repository contains a Python-based analysis tool to download, analyze, and visualize stock data from the Swedish stock exchange (OMX Stockholm). It uses various technical indicators and produces financial visualizations and plots.
 
