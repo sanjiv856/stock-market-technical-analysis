@@ -44,7 +44,7 @@ Stock_Market/
 │       ├── plots_YYYY-MM-DD/
 │       │   └── [PNG plots for each stock]
 │       └── stock_data_combined_YYYY-MM-DD.csv
-├── stock_analysis.py
+├── StockMarket_DataAnalysis.py
 ├── requirements.txt
 └── README.md
 ```
@@ -109,7 +109,7 @@ pip install -r requirements.txt
 3. Run the script:
 
 ```bash
-python stock_analysis.py
+StockMarket_DataAnalysis.py
 ```
 
 The script will:
